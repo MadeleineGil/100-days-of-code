@@ -2,12 +2,13 @@
 
 ### Day 0: Monday April 6, 2020
 
-**Today's Progress**: ""
+**Today's Progress**: Followed next.js tutorial to create hello world site, running locally
 
-**Thoughts:** ""
+**Thoughts:** Next.js looks like it'll be the best / fastest way to get a react site up and running.
+So far am liking the simplicity and the things that the framework is handling for me (eg routing).
 
 **Link(s) to work**
-1. [name of link ex.](linkcontent.com)
+1. [repo set up](https://github.com/MadeleineGil/next-resume-site)
 
 <!-- ### Day 1: June 27, Monday
 
