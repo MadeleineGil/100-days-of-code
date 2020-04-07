@@ -10,6 +10,17 @@ So far am liking the simplicity and the things that the framework is handling fo
 **Link(s) to work**
 1. [repo set up](https://github.com/MadeleineGil/next-resume-site)
 
+### Day 1: Tues April 7, 2020
+
+**Today's Progress**: Finished initial nextjs intro, started experimenting with styled-components
+
+**Thoughts**: I wanted to find a simple to implement UI lib, but finding one that plays nicely with next is harder than I thought. 
+
+Settled on styled-components, not material ui for now.
+
+**Links to work**:
+1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
