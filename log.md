@@ -21,6 +21,17 @@ Settled on styled-components, not material ui for now.
 **Links to work**:
 1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
 
+### Day 2: Wed April 8, 2020
+
+**Today's Progress**: Got styled-components working for me, Navigation and Footer UI started.
+
+Next up, content and initial UI design for pages.
+
+**Thoughts**: Finding styled-components is a nicer and more versatile way to add styling instead of jsx.
+
+**Links to work**:
+1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
