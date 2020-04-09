@@ -32,6 +32,15 @@ Next up, content and initial UI design for pages.
 **Links to work**:
 1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
 
+### Day 3: Thurs April 9, 2020
+
+**Today's Progress**: Got some css working on the buttons and changed the content on the landing page.
+
+**Thoughts**: Struggled with onclick and the way I want the work buttons to function.
+
+**Links to work**:
+1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
