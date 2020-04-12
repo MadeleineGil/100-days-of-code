@@ -41,6 +41,12 @@ Next up, content and initial UI design for pages.
 **Links to work**:
 1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
 
+### Day 4-6: Sunday April 12, 2020
+
+**Progress**: Links in footer working, initial content json done.
+
+**Thoughts**: initial UI was not feasible to implement, have changed to a simpler UI
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
