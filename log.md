@@ -47,6 +47,18 @@ Next up, content and initial UI design for pages.
 
 **Thoughts**: initial UI was not feasible to implement, have changed to a simpler UI
 
+**Links to work**:
+1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
+
+### Day 7: Mon April 13, 2020
+
+**Today's Progress**: Work history page content and icons now provided via json file.
+
+**Thoughts**: Was one of those days where one simple syntax fix was in my way (:
+
+**Links to work**:
+1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
