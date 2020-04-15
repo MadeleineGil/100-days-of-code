@@ -59,6 +59,17 @@ Next up, content and initial UI design for pages.
 **Links to work**:
 1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
 
+### Day 8-10: Wed April 15, 2020 
+
+**Today's Progress**: Tues was a day off due to moving. 
+Worked on work page icons and data displaying dynamically.
+Index page flexbox with image.
+
+**Thoughts**: Flexboxing what i could probably use a table for, but wanted to see how far I could take it. Might look into other solutions tomorrow.
+
+**Links to work**:
+1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
