@@ -70,6 +70,15 @@ Index page flexbox with image.
 **Links to work**:
 1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
 
+### Day 11: Thurs April 16, 2020 
+
+**Today's Progress**: Undid the image thing I tried, re-aligned the work page.
+
+**Thoughts**: Lack of motivation today. Need to look into what to use to do layouts before jumping in. Have been trying things jumping straight in and then giving up.
+
+**Links to work**:
+1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
