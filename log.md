@@ -79,6 +79,17 @@ Index page flexbox with image.
 **Links to work**:
 1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
 
+### Day 16: Tues April 121, 2020 
+
+**Today's Progress**: Got a proper background image working, tried to implement div blur. Did more UI thinking
+
+**Thoughts**: I need to stop going back to design, or just hammer it out in one go. going back and forth is definitely not helping. But it's hard not to when I'm not familiar with the stack.
+
+Need to focus on basic implementation and expand from there.
+
+**Links to work**:
+1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
