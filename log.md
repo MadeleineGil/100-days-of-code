@@ -90,6 +90,15 @@ Need to focus on basic implementation and expand from there.
 **Links to work**:
 1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
 
+### Day 17: Wed April 22, 2020 
+
+**Today's Progress**: Added a headshot to index, added work content, changed pages, attempted sticky header and footer 
+
+**Thoughts**: Felt a good flow of progress / things working today. Started to get frustrated by not getting sticky headings and footers. I've definitely gone overkill with the css, and there's double ups and redundant line, should clear that up, would help with the issues I'm running into with sticky.
+
+**Links to work**:
+1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
