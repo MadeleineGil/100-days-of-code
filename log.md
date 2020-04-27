@@ -99,6 +99,16 @@ Need to focus on basic implementation and expand from there.
 **Links to work**:
 1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
 
+### Day 18: Mon April 27, 2020 
+
+**Today's Progress**: Tried to get home page centered and flexbox to do the sticky thing. 
+
+**Thoughts**: Tried to "reset" the flex values to basics / what's required and being used. Still no luck. Might try again tomorrow, maybe by commenting out the home page and starting from scratch. 
+
+**Links to work**:
+1. [resume site ongoing](https://github.com/MadeleineGil/next-resume-site)
+
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
